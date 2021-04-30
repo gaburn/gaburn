@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @gaburn
-- 👀 I’m interested in Kubernetes, C#, PowerShell, and Python...
+- 👀 I’m interested in Kubernetes, C#, PowerShell, and Python
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on Kubernetes...
-- 📫 How to reach me: @gaburn ...
+- 💞️ I’m looking to collaborate on Kubernetes
+- 📫 How to reach me: @gaburn
 
 <!---
 gaburn/gaburn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
