@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gaburn
-- 👀 I’m interested in Kubernetes, C#, PowerShell, and Python
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on Kubernetes
+- 👀 I’m interested in Agentic AI development, Kubernetes, C#, PowerShell, and Python
+- 🌱 I’m currently learning how to manage teams of AI agents without burnout through context switching
+- 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me: gaburn@microsoft.com
 
 <!---
