@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gaburn
-- 👀 I’m interested in Agentic AI development, Kubernetes, C#, PowerShell, and Python
-- 🌱 I’m currently learning how to manage teams of AI agents without burnout through context switching
+- 👀 I’m a builder. I'm interested in agentic engineering, software factories, home automation, and security
+- 🌱 I’m always learning how to better manage teams of AI agents to build products I'm passionate about
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me: gaburn@microsoft.com
 
